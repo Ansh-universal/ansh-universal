@@ -38,20 +38,13 @@ with live Streamlit app.
 
 | Project                           | Description                             | Live Demo |
 |---------                          |-------------                            |-----------
-| [Telco Churn Prediction](link)    | XGBoost classifier with 85% accuracy    | [Live Demo](link) |
-| [Stellar Object Classifier](link) | 95%+ accuracy multiclass classifier     | [Live Demo](link) |
-| [PDF Q&A RAG Bot](link)           | Document Q&A using LangChain + ChromaDB | [Live Demo](link) |
+| [Telco Churn Prediction](link)    | XGBoost classifier with 85% accuracy    | - |
+| [Stellar Object Classifier](link) | 95%+ accuracy multiclass classifier     | [Live Demo](https://stellar-object-classification-bvlflmykraxq6dntxkgzyb.streamlit.app/) |
 
----
-
-### 📊 GitHub Stats
-
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh-universal&show_icons=true&theme=dark)
 
 ---
 
 ### 📫 Let's Connect
 
-- [LinkedIn](your-linkedin-url)
-- [Portfolio](your-portfolio-url)
+- [LinkedIn](https://stellar-object-classification-bvlflmykraxq6dntxkgzyb.streamlit.app/)
 - Email: Digitalansh5622@gmail.com
