@@ -10,9 +10,8 @@
 
 ### 🚀 About Me
 
-Data Scientist with 2 end-to-end ML projects deployed to production. 
-Built customer churn prediction (85% accuracy) and celestial object classifier (95%+ accuracy) 
-with live Streamlit app.
+Data Scientist with multiple end-to-end ML projects deployed to production. 
+with live Streamlit and render app.
 
 ---
 
@@ -28,7 +27,7 @@ with live Streamlit app.
 
 **Languages:** Python, SQL  
 **ML/DL:** Scikit-learn, XGBoost, TensorFlow  
-**GenAI:** LangChain, RAG, Prompt Engineering  
+**GenAI:** LangChain, RAG, Prompt Engineering, Vector DB
 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
 **Tools:** Streamlit, Git, AWS, Excel
 
